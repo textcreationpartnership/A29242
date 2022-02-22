@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable the lord mayor and aldermen of this city at the Cathedral Church of St. Pauls, on Sunday 3d. of April by H. Bagshaw.</title>
+            <author>Bagshaw, H. (Harrington)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29242</idno>
+            <idno type="STC">Wing B428</idno>
+            <idno type="STC">ESTC R24719</idno>
+            <idno type="EEBO-CITATION">08447702</idno>
+            <idno type="OCLC">ocm 08447702</idno>
+            <idno type="VID">41335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable the lord mayor and aldermen of this city at the Cathedral Church of St. Pauls, on Sunday 3d. of April by H. Bagshaw.</title>
+                  <author>Bagshaw, H. (Harrington)</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Keble,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXI, 12 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:41335:1"/>
+            <opener>
+               <signed>Edwin Mayor</signed>
+               <dateline>
+                  <date>Martis <hi>xii.</hi> die <hi>Aprilis</hi> 1698 Anno Regn. Regis <hi>Willielmi</hi> Tertii <hi>Angliae,</hi> &amp;c. Decimo.</date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Bag<g ref="char:EOLhyphen"/>ſhaw</hi> to Print his Sermon, preached at the Cathedral Church of St. <hi>Pauls,</hi> on <hi>Sunday</hi> the 3<hi rend="sup">d</hi>. of this Inſtant <hi>April;</hi> before the Lord Mayor, and Aldermen of this City.</p>
+            <closer>
+               <signed>GOODFELLOW.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:41335:1"/>
+            <p>A SERMON PREACHED Before the Right Honourable the Lord Mayor AND ALDERMEN Of this CITY. AT THE Cathedral Church of St. <hi>PA<g ref="char:V">Ʋ</g>LS</hi> on <hi>Sunday</hi> 3<hi rend="sup">d</hi>. of <hi>April</hi>
+            </p>
+            <p>By <hi>H. BAGSHAW,</hi> A. M.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Sam. Keble</hi> at the <hi>Turks Head</hi> over againſt <hi>Fetter-Lane,</hi> in <hi>Fleet-street,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41335:2"/>
+            <pb facs="tcp:41335:2"/>
+            <head>TO Sir <hi>JOHN JOHNSON,</hi> Kt. AND One of the Court of ALDERMEN.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOur having made choice of this particular Diſ<g ref="char:EOLhyphen"/>courſe, and being your ſelf in all reſpects a moſt eminent example of the Duties it recommends; As it gives you a double title to the performance, ſo, I hope, it will in ſome meaſure excuſe the freedom I take in ho<g ref="char:EOLhyphen"/>nouring it with your name, and in publiſhing my thoughts on this Subject as your own by Approbation; I hear<g ref="char:EOLhyphen"/>tily wiſh they may be in the leaſt inſtrumental towards promoting the true intereſt of Religion among us, but if the ſucceſs be not anſwerable, there is yet a certain ſecret ſatisfaction which is the neceſſary re<g ref="char:EOLhyphen"/>ſult of a well grounded Intention.</p>
+            <p>I am not ignorant with what profound Learning and perſwaſive eloquence this Subject has been already treated, inſomuch that it may ſeem a great peice of vanity to trouble the World with another Diſcourſe of of this nature, (eſpecially when 'tis almoſt as difficult
+<pb facs="tcp:41335:3"/> to write any thing new upon it, as it is to form any thing material againſt it) but ſince this is purely calcu<g ref="char:EOLhyphen"/>lated for the better guidance and direction of Chriſtian practice; I hope the plainneſs and ſimplicity of it's dreſs will admit of a better natur'd conſtruction; and that your wonted goodneſs (a quality well known to all thoſe who are ſo happy as to be of your acquaintance) will in<g ref="char:EOLhyphen"/>cline you to Patronize this Diſcourſe, and to accept the Dedication as ateſtimony of gratitude and reſpect, from</p>
+            <closer>
+               <signed>Your moſt Obliged Moſt faithful Humble Servant, <hi>H. BAGSHAW.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:41335:3"/>
+            <epigraph>
+               <q>
+                  <bibl>St. <hi>Matt. XXI.</hi> part of the 13th. <hi>ver.</hi>
+                  </bibl>
+                  <p>My Houſe ſhall be called the Houſe of Prayer.</p>
+               </q>
+            </epigraph>
+            <p>THeſe words were ſpoken by our Bleſſed Saviour by way of reproof to thoſe per<g ref="char:EOLhyphen"/>ſons, whom he found buying and ſel<g ref="char:EOLhyphen"/>ling in the Temple at <hi>Jeruſalem;</hi> and to let them know how much they prophaned that Sacred Pile, which had been dedicated to the worſhip and Service of God, by turning it to an Ex<g ref="char:EOLhyphen"/>change, or Market-place, where their whole buſineſs was cunningly to undermine their Bre<g ref="char:EOLhyphen"/>thren, and to make the greateſt advantages they could of each other in their way of Dealing and Traffick. This infamous abuſe of his Fathers Houſe exaſperated our Bleſſed Lord, and made him expreſs his reſentments of ſuch an Indignity and Affront by overthrowing <hi>the Ta<g ref="char:EOLhyphen"/>bles of the Mony-Changers, and the Seats of them that ſold Doves,</hi> as we read in the Verſe immediately foregoing: As if he had ſaid, tho' your practice hitherto hath been by no means anſwerable to that awful reverence you ought to pay a Place
+<pb n="2" facs="tcp:41335:4"/> of that Nature; yet notwithſtanding it ſhall be reſtored to it's Primitive uſe, ſet apart, and ap<g ref="char:EOLhyphen"/>propriated to the work of Devotion, implyed in theſe words, <hi>My Houſe ſhall be called the Houſe of Prayer.</hi>
+            </p>
+            <p>The deſign of this Diſcourſe is to recom<g ref="char:EOLhyphen"/>mend the duty of frequenting thoſe Places, which it hath pleaſed Almighty God to ſet apart for the performance of Religious Duties, which I ſhall endeavour to inforce by ſhewing,
+<list>
+                  <item>I. That ſuch places do juſtly challenge an extraordinary reſpect and reverence from us.</item>
+                  <item>II. By ſhewing what influence the diſtin<g ref="char:EOLhyphen"/>guiſhing reſpect, which we owe to them, ought to have on our lives and Actions, as alſo what qualifications are neceſſary to accompany us in our attendance on them.</item>
+               </list>
+            </p>
+            <p>Firſt then, I am to prove that we ought to have an extraordinary reſpect and reverence for thoſe Places, which it hath pleaſed God to ſet apart for the performance of Divine Worſhip.</p>
+            <p>In ſpeaking to which head, I would not be ſo underſtood, as tho' theſe Holy Places were to be eſteemed or reverenced upon the account of any internal ſanctity inherent in them, or that the regard we ought to bear to them ſhould be terminated in the Places themſelves; but only
+<pb n="3" facs="tcp:41335:4"/> that we ought to eſteem and reſpect them in a relative ſence, as being appointed by God as the proper Seats and Inſtruments of His Wor<g ref="char:EOLhyphen"/>ſhip and adoration, and which He has promiſed to ſancttifie with His Divine Preſence, <hi>When but two or three are gathered together in his Name.</hi>
+            </p>
+            <p>'Tis true indeed, God cannot properly be ſaid to be abſent from any place, who fills the Univerſe with his Omnipreſence, but with reſpect to His ſpecial acceptation and readineſs to aſſiſt the Prayers and Suplications of ſuch, who call upon him in his Holy Temples, we may affirm according to the Scripture Phraſe, <hi>Surely this place is no other than the Houſe of God;</hi> and by conſequence to be eſteemd and reſpect<g ref="char:EOLhyphen"/>ed by us with that profound ſubmiſſion and aw<g ref="char:EOLhyphen"/>ful Reverence, which is due to the Sanctuary of the Lord.</p>
+            <p>And that more eſpecially for theſe following reaſons.</p>
+            <p>1. Becauſe of that different reſpect, which God Himſelf bears to things ſet apart to his own Worſhip, from what he does to all other things of common and ordinary uſe, of which we can't have a ſtronger Argument than the many and remarkable Judgments pour'd down by God upon ſuch profligate Offen<g ref="char:EOLhyphen"/>ders,
+<pb n="4" facs="tcp:41335:5"/> who have preſumed to violate by Sacrile<g ref="char:EOLhyphen"/>gious means, things conſecrated to the more im<g ref="char:EOLhyphen"/>mediate and peculiar uſe and ſervice of Him<g ref="char:EOLhyphen"/>ſelf. And tho' Hiſtory, both Sacred and pro<g ref="char:EOLhyphen"/>fane, abounds with many Inſtances of this kind, yet I ſhall content my ſelf at preſent with only marking out two of them, which whether they are more exemplary for their puniſhment, or to be abhorred for their Crime is a Queſtion not eaſily determined. The firſt I ſhall men<g ref="char:EOLhyphen"/>tion is <hi>Antiochus,</hi> who, when all his projects were fruſtrated, his Commanders fallen, and his hopes out off, with the flower of his Ar<g ref="char:EOLhyphen"/>my, whilſt he was reflecting with himſelf upon the happineſs he had loſt, and the miſery he ſuſtained; his Conſcience immediately flies in his face, and repreſents to him thoſe wicked practices which had occaſion'd his fall, and he repenting too late, recites the black Cata<g ref="char:EOLhyphen"/>logue after this manner, <hi>Now I remember the evils I did at</hi> Jeruſalem, <hi>how I took the veſſels of Gold and Silver, I perceive therefore that for this cauſe theſe evils are come upon me, and behold I pe<g ref="char:EOLhyphen"/>riſh for greif in a ſtrange Land.</hi>
+            </p>
+            <p>The other Inſtance is, that Monſter of ini<g ref="char:EOLhyphen"/>quity and profaneneſs the great <hi>Belſhazzar,</hi> who having made a great Feaſt to entertain the No<g ref="char:EOLhyphen"/>bles
+<pb n="5" facs="tcp:41335:5" rendition="simple:additions"/> of his Court, commanded (as the Prophet <hi>Daniel</hi> informs us) the Golden and Silver veſſels, which his Father <hi>Nebuchadnezzar</hi> had taken out of the Temple, to be brought unto him, that himſelf and his Princes, his Wives and his Con<g ref="char:EOLhyphen"/>cubines might drink therein: One would have thought the heavy Judgments, inflicted on his Fathers Head for the like Crimes, might have been a ſufficient warning to him not to break thro' the bounds which God had ſet between things Sacred and Prophane, and, by ſuch a daring inſtance of impiety, bid defiance to the Almighty. <hi>The moſt high God</hi> (ſays the Pro<g ref="char:EOLhyphen"/>phet ſpeaking to <hi>Belſhazzar</hi> on this occaſion) <hi>gave</hi> Nebuchadnezzar <hi>thy Father a Kingdom, and Majeſty, and Glory, and Honour; but, when his heart was lifted up, and his mind hardned in pride he was depoſed from his Kingly Throne, and they took his Glory from him: he was driven from the Sons of Men, and his heart was made like the Beaſts, and his dwelling was with wild Aſſes, they fed him with Graſs like Oxen, and his Body was wet with the dew of Hea<g ref="char:EOLhyphen"/>ven, till he knew that the moſt High God ruled in the Kingdom of men, and that He appointeth over it whom<g ref="char:EOLhyphen"/>ſoever He will.</hi> One would have thought, I ſay, that this Vial of Gods wrath, which was pour'd out on the Father for his Sacriledg, might have
+<pb n="6" facs="tcp:41335:6"/> had ſome influence upon the Son, who knew all this; but he, as if he had been deſirous of get<g ref="char:EOLhyphen"/>ting a renown by that Crime, or one, that thought the wickedneſs of the depoſed Prince was intailed upon his Succeſſour together with the Scepter, could not forbear making the Sacred Veſſels of the Temple the unhappy In<g ref="char:EOLhyphen"/>ſtruments of his Luxury; but alas how ſoon did the Scene change, and the very ſame night, that he was entertaining himſelf in this man<g ref="char:EOLhyphen"/>ner, his Sentence was written in lively Cha<g ref="char:EOLhyphen"/>racters upon the wall by the Finger of the Al<g ref="char:EOLhyphen"/>mighty: <hi>His knees ſmote one againſt another, the joynts of his loyns were looſed,</hi> and the tragedy con<g ref="char:EOLhyphen"/>cluded in the loſs of his Kingdom together with his life. Neither are we to wonder why God ſhould ſhew ſuch a ſhining inſtance of his wrath and fiery indignation againſt ſuch an audacious Precedent of Impiety, ſince his prophaning the Veſſels of the Temple was in effect, and by interpretation, to declare, that either he did not beleive what God ſaid, or that he did not fear what he could do. And that we might not form a falſe Judgment, and apprehend, that theſe ſignal puniſhments were the reward of any other crimes, which in his life time he had committed, the ſame Prophet poſitively aſſures
+<pb n="7" facs="tcp:41335:6"/> us. <hi>For thou, O</hi> Belſhazzar, ſays he, <hi>haſt lifted up thy ſelf againſt the Lord of Heaven, and they have brought the Veſſels of his houſe before thee, and thou and thy Lords, thy Wives and thy Concubines have drunk Wine in them; and the God, in whoſe hand thy breath is, and whoſe are all thy ways, haſt thou not glorified;</hi> And then he proceeds to interpret the Judgment pronounced againſt him; that <hi>God hath numbred his Kingdom and finiſhed it, that he is weighed in the Ballance and found wanting, that his Kingdom is divided and given to the</hi> Medes <hi>and</hi> Perſians: After which it follows, <hi>in that night was</hi> Belſhazzar <hi>the King of the</hi> Chaldeans <hi>ſlain.</hi>
+            </p>
+            <p>It is not from hence to be concluded, that God do's alway ſhew ſuch remarkable inſtan<g ref="char:EOLhyphen"/>ces of his diſpleaſure on the heads of all Sacri<g ref="char:EOLhyphen"/>legious Intruders, or ſuch, as violate either things or places conſecrated to the more im<g ref="char:EOLhyphen"/>mediate uſe and ſervice of himſelf; it is ſuffi<g ref="char:EOLhyphen"/>cient, that his Juſtice does by ſome eminent examples of this kind aſſert it ſelf, tho' at other times it may ſuffer for a while Perſons and Families raiſed upon the ruines of Churches and inriched with the ſpoils of Sacriledg to flouriſh and thrive <hi>like a green Bay-tree:</hi> It do's not become us to inquire or examine what is the reaſon of ſo a wiſe a diſpenſation.</p>
+            <pb n="8" facs="tcp:41335:7"/>
+            <p>It is ſufficient to my preſent purpoſe, that he does by ſome convincing inſtance of his vengeance, very often proclaim to all the World, that he will execute Judgments on thoſe, who will not reverence his Sanctuary. Should the Juſtice of God alwaies interpoſe, and obſerve the ſame meaſures in other Crimes of the like nature the frequency of his Judgments would probably be objected a<g ref="char:EOLhyphen"/>gainſt that Miraculous Power, by which they were effected: and Prophane and Irrilegious men would be apt to conclude, they were no more than the ordinary effects of Chance or Providence; but, be that as it will: Thus much, I think, I may venture to affirm, that there is no perſon, who has either known or read of many notorious inſtances of Families enrich'd by ſuch impious practices, but may have likewiſe obſerved, that Providence has, ſooner or later, blaſted their Proſperity, by ſome ſevere and unexpected viſitation. Nay ſo Jea<g ref="char:EOLhyphen"/>lous does God declare himſelf of the honour of his Sanctuary, and the place of his Holy Preſence, that he ſmote <hi>Uzzah</hi> for but endea<g ref="char:EOLhyphen"/>vouring to ſupport the tottering Ark: Nor could the ſincerity of his intentions alter the nature of the fact: It is true indeed, many have
+<pb n="9" facs="tcp:41335:7"/> been too apt of late, in inſtances of the like na<g ref="char:EOLhyphen"/>ture, to depend too much upon the force of a ſincere meaning, as tho', that were alon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> able to bear the guilt of all theit Sacrilegious im<g ref="char:EOLhyphen"/>pieties; but we may learn from this Judgment, which befel him, that the pretended ſincerity of our intentions is no ſuch preſervative, as to<g ref="char:EOLhyphen"/>tally to ſecure us, and if the errours of our judg<g ref="char:EOLhyphen"/>ments and conſciences carry us on to the com<g ref="char:EOLhyphen"/>miſſion of wicked practices we may be anſwer<g ref="char:EOLhyphen"/>able for the one, if not for the other. And this I the rather mention, becauſe it is a fre<g ref="char:EOLhyphen"/>quent Artifice among ſome men, to excuſe their Rapine and Sacriledge with the bleſſed name of Reformation; but by them moſt un<g ref="char:EOLhyphen"/>juſtly applied.</p>
+            <p>A ſeccond Reaſon why we ought to pay a diſtinguiſhing reſpect to Places of this nature, is grounded upon the example and command of God himſelf, who is pleaſed to appoint this difference. In the moſt early times of the World, we find God giving his expreſs injuncti<g ref="char:EOLhyphen"/>ons to his Servant <hi>Jacob</hi> to build him an Altar, which, when the holy <hi>Patriarch</hi> had perform<g ref="char:EOLhyphen"/>ed in obedience to a ſpecial and extraordinary Command, what reverence does he expreſs to to it? and what a profound eſteem does he
+<pb n="10" facs="tcp:41335:8"/> ſhew towards it? <hi>How dreadful,</hi> ſays he, <hi>is this place; for ſurely tis no other than the Houſe of God.</hi> Is was not any internal worth or ſanctity inhe<g ref="char:EOLhyphen"/>rent in the place it ſelf, that either did, or could, procure it this eſteem from the holy <hi>Patriarch,</hi> for by nature there is no diſtinction in places; but becauſe it pleaſed God to ap<g ref="char:EOLhyphen"/>point and ſet apart this place, as peculiar to himſelf and his own uſe. If it be asked, for what reaſon God may be ſuppoſed to bear a different reſpect to Places conſecrated to his own Worſhip, from what he bears to others de<g ref="char:EOLhyphen"/>ſign'd for the common and ordinary uſes of life, it might be anſwered, that the Divine Will and Pleaſure, when once reveal'd and atteſted carry with them ſufficient reaſon and convi<g ref="char:EOLhyphen"/>ction from the authority of the Revealer to any ſober and diſintereſſed Enquirers. We are not at liberty to diſpute and conteſt the grounds upon which the Will of God proceeds, or by which it is determin'd: It is ſufficient for us, that it hath pleaſed him to make known his Will to us by Revelation: Our duty is obedi<g ref="char:EOLhyphen"/>ence and ſubmiſſion; but ſo far as we may be allowed to reaſon upon Divine Subjects, we may probably preſume that God Almighty, by fixing upon and inſtituting of ſome places
+<pb n="11" facs="tcp:41335:8"/> to this peculiar end, was pleaſed to excite and promote the Devotion and Piety of his people by that awful reverence, with which they are naturally apt to affect our thoughts.</p>
+            <p>A third Reaſon, why we ought to bear a diſtinguiſhing reſpect to Places ſet apart for the Worſhip of God is, that reverence and eſteem which is due to all things of what nature or qualities ſoever, whether perſons or places, that are appropriated more immediately to His holy Service and Worſhip. <hi>He that deſpiſeth you deſpiſ<g ref="char:EOLhyphen"/>eth me,</hi> ſaith our Saviour to His diſciples, <hi>and he that deſpiſes Me deſpiſeth him, that ſent Me;</hi> which Sentence, tho' applied by our Bleſſed Saviour to ſuch as ſhould abuſe, or vilifie the Sa<g ref="char:EOLhyphen"/>cred Office of his Diſciples, may with equal verity, be pronounced, tho' in a ſubordinate degree, of thoſe, who Sacrilegiouſly invade the Temples and Patrimony of the Church, and ſerve all their mean and ſordid ends upon her. <hi>Have ye not houſes to eat and to drink in,</hi> ſays St. <hi>Paul</hi> in this firſt Epiſtle to the <hi>Corinthians, or deſpiſe ye the Church of God?</hi> The Apoſtle would have no feaſting, or, otherwiſe, lawful freedoms practis'd at the Altar, which had been ſet a<g ref="char:EOLhyphen"/>part and conſecrated to a more Divine and ſpiri<g ref="char:EOLhyphen"/>tual entertainment. It had been no excuſe for the
+<pb n="21" facs="tcp:41335:9"/> 
+               <hi>Corinthians</hi> to have pleaded, that they practis'd only the inoccent freedoms of Converſation, and uſed the Church of God as a means to promote mutual freindſhip and ſociety among them<g ref="char:EOLhyphen"/>ſelves; theſe ends, however exellent in them<g ref="char:EOLhyphen"/>ſelves; were to be attained in their proper and ordinary places: And they were not under any pretence, or colour, or for any deſign or end whatſoever, to abuſe things, that had been dedicated to the immediate Service of God, to any other ends than thoſe, for which they were deſign'd.</p>
+            <p>If it be demanded, whether the Conſecration of Places does communicate any ſpecial ſan<g ref="char:EOLhyphen"/>ctity or holineſs to them, beyond that of o<g ref="char:EOLhyphen"/>ther things and places of ordinary and common uſe: I anſwer, that tho' it does not, yet it will not from hence follow, that therefore they are no more to be regarded by us than other things and places are: For the places are already ſa<g ref="char:EOLhyphen"/>cred by the donation and appointment of them to the Service and Worſhip of God: And upon this account it is, that we affirm they are to be reſpected, not as abſolutely, but relatively Ho<g ref="char:EOLhyphen"/>ly becauſe of that relation they have to him, who is the Fountain of all holineſs. If it be further asked, to what purpoſe then is the Con<g ref="char:EOLhyphen"/>ſecration
+<pb n="13" facs="tcp:41335:9"/> of Things or Places, which are alrea<g ref="char:EOLhyphen"/>dy Sacred by their donation and appointment to this queſtion I make anſwer, that by their Conſecration they are ſolemnly declared to be ſo: And unleſs this manner of pronouncing, or declaring places holy were admitted, it is not eaſie to imagine how the common people ſhould know what places they were to reſpect as holy, and what not; beſides thus much at leaſt we cannot deny but that ſuch places, as are pe<g ref="char:EOLhyphen"/>culiarly and ſolemnly appointed for Divine Service, are more apt to quicken us with a great<g ref="char:EOLhyphen"/>er ſpirit of Devotion than others of ordinary and common uſe. A reflection of this nature cannot but correct our wandring thoughts, and will more forcibly engage our affections than all the moſt preſſing arguments, though pointed with the cleareſt reaſon, and dreſſed up under all the beauties of Rhetorick and elo<g ref="char:EOLhyphen"/>cution. And therefore, tho' theſe external things are neither eſſential parts of our devoti<g ref="char:EOLhyphen"/>on, nor, by any virtue of their own, direct occaſions of it; yet becauſe it hath pleaſed God after this manner, by ſanctifying theſe inferiour means to our ſpiritual improvement, to help us forward in the exerciſe of our duty; it will better become us to adore his Wiſdom, in thus
+<pb n="14" facs="tcp:41335:10"/> expreſſing his Compaſſion to our Infirmities, than by fondly relying upon our own, to put a ſlight upon ſuch aſſiſtances, and unthank<g ref="char:EOLhyphen"/>fully fruſtrate the gracious methods contrived for our Salvation. And thus have I finiſhed my firſt general Head propoſed to be ſpoken to from theſe words; namely, that ſuch places as are ſet apart for the performance of Religious Duties, do juſtly challenge an extraordinary reſpect and reverence from us. I proceed now to the ſecond Branch of my Text, wherein I promiſed to ſhew, what influence the diſtin<g ref="char:EOLhyphen"/>guiſhing reſpect, we owe to thoſe ſolemn Places of divine worſhip, ought to have on our lives and Actions, as alſo what qualifications are neceſſary to accompany us in our atten<g ref="char:EOLhyphen"/>dance on them.</p>
+            <p>In ſpeaking to which head I ſhall not under<g ref="char:EOLhyphen"/>take any ſuch exact ennumeration, as may con<g ref="char:EOLhyphen"/>clude all the general branches of our duty, but ſhall confine my ſelf, in the remaining part of this Diſcourſe, to theſe three following; Sin<g ref="char:EOLhyphen"/>cerity, Reverence, and Attention.</p>
+            <p>By Sincerity I mean an upright intention, by which we direct our devotion to that proper end, for which theſe Holy Places were deſign'd <hi>viz.</hi> the knowledg of Gods Will in order to
+<pb n="15" facs="tcp:41335:10"/> the due performance of it. This honeſt ſimplici<g ref="char:EOLhyphen"/>ty of heart is that which our Bleſſed Saviour re<g ref="char:EOLhyphen"/>preſonts by the good ground, where a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e it was the Seed ſprung up and bore fruit; and he that brings not this along with him, howſoever he may fondly flatter himſelf, retains only the ſhadow not the ſubſtance of Chriſtianity. And to this we may probably impute that ſmall in<g ref="char:EOLhyphen"/>fluence; which the Word of God hath on the minds of ſome among us, who come to the places of Divine Service for the ſame end, that they frequent the Exchange or the Court, not out of any ſenſe of Devotion or Piety towards God, but in complyance with their own inter<g ref="char:EOLhyphen"/>eſt which amounts to no more than a State-con<g ref="char:EOLunhyphen"/>formity taken up in favour of their ſecular eaſe and profit to avoid the puniſhments, or to graſp the Dignities preſented to them. 'Tis with diffi<g ref="char:EOLhyphen"/>culty that they prevail upon themſelves to come, and with great impatience that they ſit out the Service. The Cuſtom and Manners of the Country where they live, oblige them to feign a decent Hypocriſie to avoid the Cenſure of the publick, or the imputation of Singulari<g ref="char:EOLhyphen"/>ty; nay, even when they are in Gods preſence, as tho' it were a place of Pennance, or confine<g ref="char:EOLhyphen"/>ment; they contrive, by all the little Arts
+<pb n="16" facs="tcp:41335:11"/> they can, how they may render their ſtay the mote tollerable, and divert that time, which they look on as the Parentheſis of their lives.</p>
+            <p>Others likewiſe there are, who are more con<g ref="char:EOLhyphen"/>ſtant attendants on Divine Worſhip, who bring only their ſpeculative faculties along with them, and leave their wills and affections be<g ref="char:EOLhyphen"/>hind them: They covet to know Gods Will for any purpoſe, but to practice it, and are Hearers of the Word, only to become more knowing, without ever ſuffering it to reach a<g ref="char:EOLhyphen"/>ny further than their underſtandings, which is ſo fatal a defect as blaſts our purſuits, tho' of things in themſelves never ſo excellent. This we find exemplifi'd in <hi>Simon-Magus,</hi> who, tho' he coveted a thing in it ſelf very deſirable, the power of conferring the Holy Ghoſt, yet de<g ref="char:EOLhyphen"/>ſiring it upon undue conditions, and for ſiniſter ends, he was immerſed in <hi>the gall of bitterneſs,</hi> and at laſt advanced to that height of Blaſphe<g ref="char:EOLhyphen"/>my, as to ſet up himſelf for God thereby be<g ref="char:EOLhyphen"/>coming a Laſting Monument how unſafe it is to prevaricate in Holy Things. But there are a ſet of men who deal yet more unſincerely in their attendance on the Service of God, and hear the Word inſidiouſly, on purpoſe to collect mat<g ref="char:EOLhyphen"/>ter of objection and cavil againſt the Preacher,
+<pb n="17" facs="tcp:41335:11"/> that liſten attentively, but to no other en<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n to remark incoherencies and defects in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t<g ref="char:EOLhyphen"/>ter of it; which when they think th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible: omitted in print" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtarted they have gained their deſign, and he <gap reason="illegible: omitted in print" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſe in any meaſure the ſame proportion of dili<g ref="char:EOLhyphen"/>gence how they may improve the doctrine de<g ref="char:EOLhyphen"/>livered to the benefit of their Souls, and their everlaſting happineſs in a life to come: The Precepts and Threatnings declared againſt their darling Luſts are continually fretting and per<g ref="char:EOLhyphen"/>plexing them, whereupon they are reſolved to diſcharge their malice againſt the Preacher. But I ſhall not inſiſt upon this reflection in this place, becauſe I will not ſuppoſe any, who compoſe this Auditory ſo very diſingenuous as to be con<g ref="char:EOLhyphen"/>cerned in any part of it.</p>
+            <p>A ſecond Qualification, which is neceſſary to accompany us in our attendanee on Divine Service at the Houſe of God, is Reverence. If we look back upon the paſt Ages of the World we ſhall find that even among the Pagan Princes a Reverend deportment was always uſed in the Worſhip of their Deities, and their Devotions perform'd in the moſt expreſſive poſtures of Reverence according to the different modes of the Countries they lived in; inſomuch that <hi>Numa</hi> made a Law that no man ſhould meddle
+<pb n="18" facs="tcp:41335:12"/> with divine things, or worſhip their Gods in paſſing, or by accident, but make it a ſet and ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>emn buſineſs: And every one knows, that has the leaſt acquaintance with antient Hi<g ref="char:EOLhyphen"/>ſtory, with how great ceremony and ſolemni<g ref="char:EOLhyphen"/>ty their Oracles were conſulted. How great a ſhame then is it for Chriſtians to abate of that reverence to the True God, which the ve<g ref="char:EOLhyphen"/>ry Heathens allowed their Falſe Ones.</p>
+            <p>Now this proceeds ſomtimes for want of that habitual reverence we ſhould always have to the Place of Gods Preſence, and ſometimes for want of actual exciting it: For if the habit lye only dormant in us, and be not awaken<g ref="char:EOLhyphen"/>ed by a lively and vigorous conſideration, it avails us as little for edification, as the habitual ſtrength of a man does for labour, when he will not exert it to that end. When we enter in<g ref="char:EOLhyphen"/>to the gates of <hi>Sion</hi> we ſhould do it with o<g ref="char:EOLhyphen"/>ther ſentiments and apprehenſions than when we enter into any other place of common and civil uſe, conſidering that 'tis the Temple of the God of Heaven, the Seat of His more Imme<g ref="char:EOLhyphen"/>diate Preſence, the Inſtrument of our Salvation, or upon abuſe, of our Ruine: for the greater opportunities and advantages we have to im<g ref="char:EOLhyphen"/>prove our ſelves in the knowledg of God and
+<pb n="19" facs="tcp:41335:12"/> Religion, the more in proportion will b<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pected from us. And ſure this, if duly app<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>hended cannot but awaken our endeav<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> controle all trifling fancies, and make us fre<g ref="char:EOLhyphen"/>quent theſe Holy Places with a ſuitable reve<g ref="char:EOLhyphen"/>rence and becoming affection; to this purpoſe we find the Royal <hi>Pſalmiſt</hi> pathetically crying out; <hi>O how amiable, are thy Tabernacles O Lord of Hoſts? my Soul longeth, yea even fainteth for the Courts of the Lord, for a day in thy Courts is better then a thouſand, &amp;c.</hi> and in another place, ſays he, <hi>one thing have I deſired of the Lord, which I will require, even that I may dwell in the houſe of the Lord all the days of my life, to behold the fair beauty of the Lord, and to viſit his Temple.</hi> And as we ought to make it our deliberate choice to frequent the Place of Gods Worſhip, ſo, when we do it, 'tis our duty to ſtir up our ſelves with ſuch ſolemn apprehenſions, as may render us apt to receive due impreſſions from the Word of God, which is there delivered to us; for, where there is no reverence, 'tis not to be expected there ſhould by any genuin or laſting obedience: Set places and ſet times for Divine Worſhip have been made uſe of in all Ages of the Chri<g ref="char:EOLhyphen"/>ſtian Church, having been continued down to us more eſpecially ſince <hi>Conſtantine's</hi> time:
+<pb n="20" facs="tcp:41335:13"/> And as they were at firſt inſtituted for this pur<g ref="char:EOLhyphen"/>poſe that we might be more at leiſure to retire <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our ſelves, and ſeriouſly reflect upon the ſolemn Buſineſs we are going about, ſo we ſhall all of us be highly wanting to our ſelves, if we do not endeavour, by a ſtrict and dayly obſervance of them, to improve theſe aſſiſtances to that Bleſſed End, for which they were ap<g ref="char:EOLhyphen"/>pointed we muſt take care that our Services be as free from irreverence or indecency of be<g ref="char:EOLhyphen"/>haviour, as the Sacrifices of the Law were re<g ref="char:EOLhyphen"/>quired to be from infirmity and blemiſh, aſ<g ref="char:EOLhyphen"/>ſuring our ſelves that the God whom we ſerve, is Jealous of his Honour as well as Holy in his Nature, neither will he ſuffer Himſelf to be contemned or invaded within His Own Walls.</p>
+            <p>The third and laſt Qualification, which I ſhall inſiſt on, as a neceſſary ingredient of our publick Devotion, is Attention. This is a du<g ref="char:EOLhyphen"/>ty ſo indiſpenſably neceſſary, that without it all places are alike and equally inſignificant, for he that attends not to the Duties and Offices of the Church, the warmeſt and moſt perſwa<g ref="char:EOLhyphen"/>ſive devotion in the Prieſt ſhall affect him no more, than the moſt artful and charming ſtrains of Muſick can move a perſon who has loſt his Hearing. We muſt therefore keep our minds
+<pb n="21" facs="tcp:41335:13"/> fixed in our attendance on God in His <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Temples. Inadvertency is a folly and <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Civil and Temporal affairs; but 'ti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Divine, for a man to be in the preſence <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> one, eſpecially his ſuperiour, and not at all to mind what he ſays, the rules of converſation interpret no ſmall inſtance of Contempt; yet this vile affront do all thoſe put upon God who in their attendance on his Service give it no attention: And much more they, who come to the Church only to gratifie their curioſity, or what is yet worſe to purſue ſome ill inclination, or vicious deſign. Notwith<g ref="char:EOLhyphen"/>ſtanding which I am afraid the practice is not more impious than 'tis common, for there are many, who frequent the Gates of <hi>Sion,</hi> who if at each time they ſhould be called to an account, I doubt could ſhew but little fruits of their edi<g ref="char:EOLhyphen"/>fication thereby; and this may be one reaſon why, ſo many perſons grow old in their igno<g ref="char:EOLhyphen"/>rance, underſtanding their Baptiſmal Vow as little when they ſhould perform it, as they did when they made it, and are ready to leave this World before they know any thing of the other which is to ſucceed it. This want of Attention foreſtals all poſſibility of good; how ſhall the preaching the Word of God convince the
+<pb n="22" facs="tcp:41335:14"/> underſtanding, or perſwade the affections, which <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much as enter the imagination? ſo that in thi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Seed ſeems more caſt away than in any of thoſe <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es the Parable gives: In thoſe it ſtill <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Soil? but in this it never reaches that, but <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tered and diſſipated as with a <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y wind, by thoſe wandring and vitious thoughts, which have prepoſ<g ref="char:EOLhyphen"/>ſeſſed the mind.</p>
+            <p>Let none therefore preſume to approach ſuch Sacred Places, till they have turned out all diſtracted fancies and have their faculties free and vacant for thoſe nobler ob<g ref="char:EOLhyphen"/>jects which will there preſent themſelves; and when they have ſo diſpoſed themſelves for Attention, then let them contrive to improve that attention to the beſt advantage. This will render what they hear opper<g ref="char:EOLhyphen"/>ative and effective, and unleſs we employ our ſelves in this manner in theſe places, and attentivly apply what is ſaid to practice and experience; the Word or God may fill our heads with high notions, nay with many ſpecu<g ref="char:EOLhyphen"/>lative truths, which amounts to no more than the The<g ref="char:EOLhyphen"/>ology of the Apoſ <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Angels, and will as little advan<g ref="char:EOLhyphen"/>tage us. To conclude all, let our Attention, I ſay, be reduced to practice, <hi>that ſo others ſeeing our good works may glorify our Father, which is in Heaven.</hi> And if we fail here, the moſt aſſiduous diligence in all the former will be but loſt labour; let us mean never ſo well attend never ſo cloſe, if after all we do not practis, all the reſt will ſerve but to inhance our guilt. Let us all therefore <hi>keep a ſteady eye upon that mark and preſs towards it;</hi> as the Apoſtle did, faithfully, and diligently frequent the places of Gods Holy Service, that we may learn His Divine Will and pleaſure and finally partake his promiſes; <hi>which God of his infinite Mercy grant to us all,</hi> &amp;c.</p>
+            <p>
+               <hi>To whom with the Son and Holy ſpirit Three Perſons, but one God, be aſcribed as is moſt due,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
